@@ -1,6 +1,6 @@
 # PHP CURL Cookbook
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+Russia  
 
 List of commonly used cases with PHP cURL extension.
 
